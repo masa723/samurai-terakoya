@@ -1,0 +1,9 @@
+<p>p要素です。
+     1つ目のspan要素です。
+      2つ目のspan要素です。
+      3つ目のspan要素です。
+    </p>
+
+
+    margin: 100px;
+      padding: 100px;
